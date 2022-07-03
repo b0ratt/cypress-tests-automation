@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": "https://www.saucedemo.com/",
+    "target": "es6",
+    "lib": ["es6", "dom"],
+    "types": ["cypress"]
+  },
+  "include": ["**/*.ts"]
+}
